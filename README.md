@@ -31,6 +31,9 @@
     <a href="https://www.linkedin.com/in/felipjordi/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://www.freecodecamp.org/jfz94" target="_blank">
+        <img alt="Freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+    </a>
 </p>
 
 <!--
